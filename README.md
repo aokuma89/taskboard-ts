@@ -1,7 +1,7 @@
 ## TaskBoard (TypeScript)
 Supabase をバックエンドに使用した、シンプルでモダンなタスク管理（かんばんボード）アプリケーションです。
 
-## 🚀 機能
+## 機能
 ユーザー認証: Supabase Auth を利用したサインアップ・ログイン機能。
 
 タスク管理: タスクの追加、ステータス更新、削除。
@@ -10,14 +10,14 @@ Supabase をバックエンドに使用した、シンプルでモダンなタ�
 
 リアルタイム性: TypeScript による型安全な開発。
 
-## 🛠 使用技術
+## 使用技術
 Frontend: React, TypeScript, Vite
 
 Styling: Tailwind CSS, Lucide React (アイコン)
 
 Backend: Supabase (Auth, Database)
 
-## 📋 セットアップ手順
+## セットアップ手順
 1. リポジトリをクローン
 Bash
 git clone https://github.com/aokuma89/taskboard-ts.git
