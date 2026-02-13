@@ -1,6 +1,3 @@
-## ※これは学校の課題で制作したアプリです
-
-
 ## TaskBoard (TypeScript)
 Supabase をバックエンドに使用した、シンプルでモダンなタスク管理（かんばんボード）アプリケーションです。
 
@@ -56,3 +53,5 @@ create policy "Users can manage their own tasks" on tasks
 ## 5. アプリケーションの起動
 Bash
 npm run dev
+
+※これは学校の課題で制作したアプリです
